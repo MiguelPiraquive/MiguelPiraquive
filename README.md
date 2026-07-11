@@ -86,3 +86,5 @@ Me enfocan la **arquitectura limpia**, el **control de acceso por roles (RBAC)**
 *Abierto a oportunidades como desarrollador full-stack, backend o soporte de infraestructura TI.*
 
 </div>
+
+<!-- perfil -->
