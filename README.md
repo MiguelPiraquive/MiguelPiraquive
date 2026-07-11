@@ -20,7 +20,7 @@ Desarrollador **full-stack** y **Técnico en Sistemas**, próximo a graduarme co
 
 Me enfocan la **arquitectura limpia**, el **control de acceso por roles (RBAC)** y llevar los proyectos **hasta producción** (Docker, CI/CD, despliegue en la nube).
 
-- 🔭 Actualmente construyo **Gumo**, una plataforma SaaS multi-empresa.
+- 🔭 Actualmente desarrollo **sistemas de gestión web** full-stack (Django · React).
 - 🌱 Profundizando en arquitectura de software, DevOps y buenas prácticas.
 - 💬 Pregúntame sobre **Django, React, TypeScript, PostgreSQL o soporte TI**.
 - 📫 Contáctame en **piraquivemiguel6@gmail.com**
@@ -31,9 +31,8 @@ Me enfocan la **arquitectura limpia**, el **control de acceso por roles (RBAC)**
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| [**🏗️ Gumo**](https://github.com/MiguelPiraquive/Gumo) · [🌐 demo](https://gumo-api.vercel.app) | Plataforma **SaaS multi-empresa** para la gestión y venta de lotes inmobiliarios. Monorepo con CI/CD y despliegue en la nube. | `TypeScript` `Turborepo` `Node.js` `Docker` |
+| [**🐄 Asogan**](https://github.com/MiguelPiraquive/Asogan) | Sistema de gestión integral para **asociaciones de ganaderos**, con API REST y panel de administración. | `Django REST` `React` `Python` `PostgreSQL` |
 | [**💼 CorteSec**](https://github.com/MiguelPiraquive/CorteSec) | Sistema de **nómina y gestión de personal** con control de acceso basado en roles (**RBAC granular**). | `Django` `JavaScript` `PostgreSQL` |
-| [**🐄 Asogan**](https://github.com/MiguelPiraquive/Asogan) | Sistema de gestión para **asociaciones de ganaderos**. | `Django REST` `React` `Python` |
 | [**🏥 SIGET-HC**](https://github.com/MiguelPiraquive/Practicas) | Sistema de gestión desarrollado en mi **práctica profesional** en el sector salud (incluye pasarela de WhatsApp). | `Django` `JavaScript` `WhatsApp API` |
 
 ---
@@ -65,17 +64,6 @@ Me enfocan la **arquitectura limpia**, el **control de acceso por roles (RBAC)**
 
 ---
 
-### 📊 Mi actividad en GitHub
-
-<div align="center">
-
-![Estadísticas de Miguel](https://github-readme-stats.vercel.app/api?username=MiguelPiraquive&show_icons=true&count_private=true&hide_border=true&title_color=0e9c6f&icon_color=0e9c6f)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPiraquive&layout=compact&hide_border=true&title_color=0e9c6f&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 ¿Trabajamos juntos?
@@ -86,5 +74,3 @@ Me enfocan la **arquitectura limpia**, el **control de acceso por roles (RBAC)**
 *Abierto a oportunidades como desarrollador full-stack, backend o soporte de infraestructura TI.*
 
 </div>
-
-<!-- perfil -->
