@@ -33,7 +33,7 @@ Me enfocan la **arquitectura limpia**, el **control de acceso por roles (RBAC)**
 | :--- | :--- | :--- |
 | [**🐄 Asogan**](https://github.com/MiguelPiraquive/Asogan) | Sistema de gestión integral para **asociaciones de ganaderos**, con API REST y panel de administración. | `Django REST` `React` `Python` `PostgreSQL` |
 | [**💼 CorteSec**](https://github.com/MiguelPiraquive/CorteSec) | Sistema de **nómina y gestión de personal** con control de acceso basado en roles (**RBAC granular**). | `Django` `JavaScript` `PostgreSQL` |
-| [**🏥 SIGET-HC**](https://github.com/MiguelPiraquive/Practicas) | Sistema de gestión desarrollado en mi **práctica profesional** en el sector salud (incluye pasarela de WhatsApp). | `Django` `JavaScript` `WhatsApp API` |
+| [**🏥 SIGET-HC**](https://github.com/MiguelPiraquive/SIGET-HC) | Sistema de gestión desarrollado en mi **práctica profesional** en el sector salud (incluye pasarela de WhatsApp). | `Django` `JavaScript` `WhatsApp API` |
 
 ---
 
